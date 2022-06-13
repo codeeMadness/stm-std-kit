@@ -12,4 +12,4 @@ const localProxy = new Proxy(localStorage, {
         delete localStorage[prop];
     }
 });
-export default localProxy;
+export { localProxy };

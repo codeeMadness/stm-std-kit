@@ -1,5 +1,4 @@
-import { UiElement } from "../../../../../../../../UiElement.js";
-
+import { UiElement } from "../../../../../../../../../UiElement";
 class NewConnectionDisplay extends UiElement {
     constructor(){
         super({
