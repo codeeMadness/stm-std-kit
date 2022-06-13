@@ -1,4 +1,4 @@
-import { UiElement } from "../../../../../../../../../UiElement.js";
+import { UiElement } from "../../../../../../../../.././UiElement.js";
 import { localProxy } from "../../../../../../../../../../../util/localProxy.js";
 
 import { ConnectionOptions } from "./ConnectionDisplayElements/ConnectionOptions.js"
